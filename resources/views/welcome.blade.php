@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Rest Birita</div>
+                <h2>RestBeer for Birita/Pinga/Cachaça!</h2>
                 <p><a href="https://github.com/rogeriopradoj/restbirita">https://github.com/rogeriopradoj/restbirita</a></p>
             </div>
         </div>
